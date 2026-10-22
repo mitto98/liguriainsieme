@@ -13,7 +13,7 @@
     "@fontsource/open-sans": "^5.2.0",
     "@fontsource/staatliches": "^5.2.0",
     "nuxt": "^4.1.0",
-    "vue": "latest",
-    "vue-router": "latest"
+    "vue": "^3.5.44",
+    "vue-router": "^5.4.0"
   }
 }
